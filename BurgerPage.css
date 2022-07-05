@@ -1,0 +1,469 @@
+h1{
+    font: bold;
+    font-family:   'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 1.3cm;
+    left: 150px;
+}
+p{  
+    position: absolute;
+    top: 1.1cm;
+    left: 1.5cm;
+}
+/* Logo and Name */
+.ex{
+    font: bold;
+    font-family: Montserrat;
+    position: absolute;
+    top: 1.3cm;
+    right: 1.5cm;
+    font-size: 18px;
+}
+.menu1{
+    font: bold;
+    font-family: Montserrat;
+    position: absolute;
+    top: 2.5cm;
+    right: 13.5cm;
+    font-size: 18px;
+    
+}
+.menu2{
+    font: bold;
+    font-family: Montserrat;
+    position: absolute;
+    top: 2.5cm;
+    right: 10.4cm;
+    font-size: 18px;
+}
+.menu3{
+    font: bold;
+    font-family: Montserrat;
+    position: absolute;
+    top:  2.5cm;
+    right: 6cm;
+    font-size: 18px;
+}
+.menu4{
+    font: bold;
+    font-family: Montserrat;
+    position: absolute;
+    top: 2.5cm;
+    right:  1.5cm;
+    font-size: 18px;
+}
+/* Menu */
+.bg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+a{
+    color: black;
+}
+body{
+background-image: url("Untitled-1.png"); /* The image used */
+  height: 700px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+img {
+ max-width: 100%;
+ max-height: 100%;
+}
+
+.img {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 1cm;
+    left: 20cm;
+    width: 150px;
+    height: auto;
+    height: 20cm;
+    width: 20cm;
+}
+.title {
+    border: dashed 2px #000;
+    padding-left: 0.3cm;
+    padding-right: 0.3cm;
+    padding-top: 0.2cm;
+    padding-bottom: 00.2cm;
+    font-family: Bebas Neue;
+    position: absolute;
+    top: 9cm;
+    left: 2cm;
+    font-size: 20px;
+  }
+.one{
+    font-family: Alfa Slab One;
+    top: 8cm;
+    left: 2cm;
+    font-size: 80px;
+    color: #3d2514;
+}
+.two{
+    font-family: Alfa Slab One;
+    top: 11.2cm;
+    left: 2cm;
+    font-size: 40px;
+    color: #3d2514;
+}
+.pic1{
+    position: absolute;
+    top: 21.5cm;
+    left: 3.6cm;
+    
+}
+.pic2{
+    position: absolute;
+    top: 21.5cm;
+    left: 21cm;
+    
+}
+.pic3{
+    position: absolute;
+    top: 27.5cm;
+    left: 21cm;
+    
+}
+.p1{
+    top: 22cm;
+    left: 4cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+}
+.p2{
+    top: 22.2cm;
+    left: 4cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 26pt;
+}
+.p3{
+    top: 22cm;
+    left: 21.5cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+}
+.p4{
+    top: 22.2cm;
+    left: 21.5cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 26pt;
+}
+.p5{
+    top: 23.1cm;
+    left: 21.5cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 26pt;
+}
+.p6{
+    top: 28cm;
+    left: 21.5cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+}
+.p7{
+    top: 28.2cm;
+    left: 21.5cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 26pt;
+}
+
+.img1{
+    top: 35cm;
+    left: 17.5cm;
+}
+
+.Always{
+    top: 35cm;
+    left: 17.5cm;
+    color: #3d2514;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+    font-weight: bold;
+    background-color: #ffc045;
+    width: 4cm;
+    padding-top: 0.2cm;
+    padding-right: 0.2cm;
+    padding-bottom: 0.1cm;
+    padding-left: 0.5cm;
+}
+.main{
+    top: 36cm;
+    left: 15cm;
+    font-size: 30pt;
+    color: #3d2514;
+    font-family: Alfa Slab One;
+
+}
+.par{
+    top: 38cm;
+    left: 6cm;
+    color: #3d2514;
+    font-family: Montserrat;
+}
+.par2{
+    top: 38.7cm;
+    left: 9cm;
+    color: #3d2514;
+    font-family: Montserrat;
+}
+.burgers{
+    top: 40cm;
+    left: 1.5cm;
+}
+.b1{
+    top: 49cm;
+    left: 4.8cm;
+    font-family: Bebas Neue;
+    font-size: 28pt;
+    font-weight: bold;
+    color: #3d2514;
+}
+.b2{
+    top: 49cm;
+    left: 17.8cm;
+    font-family: Bebas Neue;
+    font-size: 28pt;
+    font-weight: bold;
+    color: #3d2514;
+}
+.b3{
+    top: 49cm;
+    left: 30cm;
+    font-family: Bebas Neue;
+    font-size: 28pt;
+    font-weight: bold;
+    color: #3d2514;
+}
+.lorem1{
+    top: 51cm;
+    left: 3.5cm;
+    font-family: Montserrat;
+    color: #3d2514;
+}
+.lorem2{
+    top: 51cm;
+    left: 16.7cm;
+    font-family: Montserrat;
+    color: #3d2514;
+}
+.lorem3{
+    top: 51cm;
+    left: 28.7cm;
+    font-family: Montserrat;
+    color: #3d2514;
+}
+.order1{
+    top: 52.3cm;
+    left: 5.3cm;
+    font-family: Alfa Slab One;
+    color: white;
+    font-size: 11pt;
+    background-color: rgb(205, 13, 13);
+    width: 3.5cm;
+    height: 0.2cm;
+    padding: 0.6cm;
+    text-align: center;
+}
+.order2{
+    top: 52.3cm;
+    left: 18.6cm;
+    font-family: Alfa Slab One;
+    color: white;
+    font-size: 11pt;
+    background-color: rgb(205, 13, 13);
+    width: 3.5cm;
+    height: 0.2cm;
+    padding: 0.6cm;
+    text-align: center;
+}
+.order3{
+    top: 52.3cm;
+    left: 30.6cm;
+    font-family: Alfa Slab One;
+    color: white;
+    font-size: 11pt;
+    background-color: rgb(205, 13, 13);
+    width: 3.5cm;
+    height: 0.2cm;
+    padding: 0.6cm;
+    text-align: center;
+}
+.last{
+    top: 76cm;
+    left: 31.1cm;
+    
+}
+.last1{
+    top: 69cm;
+    left: 0cm;
+}
+.res{
+    top: 71cm;
+    left: 19cm;
+    font-family: Bebas Neue;
+    color: #3d2514;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.book{
+    top: 71.4cm;
+    left: 15cm;
+    font-family: Alfa Slab One;
+    color: #3d2514;
+    font-size: 30pt;
+}
+.name{
+    top: 76.5cm;
+    left: 9cm;
+    color: #3d3d3d;
+    border: solid 1px #3d3d3d;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding-top: 0.5cm;
+    padding-right: 8cm;
+    padding-bottom: 0.5cm;
+    padding-left: 0.5cm;
+}
+.date{
+    top: 79cm;
+    left: 9cm;
+    color: #3d3d3d;
+    border: solid 1px #3d3d3d;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding-top: 0.5cm;
+    padding-right: 8.1cm;
+    padding-bottom: 0.5cm;
+    padding-left: 0.5cm;
+}
+.people{
+    top: 81.5cm;
+    left: 9cm;
+    color: #3d3d3d;
+    border: solid 1px #3d3d3d;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding-top: 0.5cm;
+    padding-right: 8cm;
+    padding-bottom: 0.5cm;
+    padding-left: 0.5cm;
+}
+.email{
+    top: 76.5cm;
+    left: 20cm;
+    color: #3d3d3d;
+    border: solid 1px #3d3d3d;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding-top: 0.5cm;
+    padding-right: 8cm;
+    padding-bottom: 0.5cm;
+    padding-left: 0.5cm;
+}
+.time{
+    top: 79cm;
+    left: 20cm;
+    color: #3d3d3d;
+    border: solid 1px #3d3d3d;
+    font-family: Bebas Neue;
+    font-size: 15pt;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding-top: 0.5cm;
+    padding-right: 8.3cm;
+    padding-bottom: 0.5cm;
+    padding-left: 0.5cm;
+}
+.find{
+    top: 81.5cm;
+    left: 20cm;
+    color: white;
+    background-color: rgb(205, 13, 13);
+    font-family: Alfa Slab One;
+    font-size: 13pt;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding-top: 0.5cm;
+    padding-right: 3cm;
+    padding-bottom: 0.5cm;
+    padding-left: 3cm;
+}
+.footer{
+    top: 88.5cm;
+    left: 2.5cm;
+    padding-bottom: 1.5cm;
+}
+.lorem4{
+    top: 94.5cm;
+    left: 4cm;
+    color: white;
+    font-family: Montserrat;
+
+}
+.copyright{
+    top: 101.2cm;
+    left: 4cm;
+    color: white;
+    font-family: Bebas Neue;
+}
+.loc{
+    top: 95cm;
+    left: 28cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 18px;
+}
+.email1{
+    top:96.2cm;
+    left: 28cm;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 18px;
+}
+.carouselslide{
+    top: 55cm;
+    right: 1cm;
+}
